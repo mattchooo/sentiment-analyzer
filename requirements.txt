@@ -1,0 +1,14 @@
+Python libraries:
+import pickle
+from transformers import RobertaTokenizer
+import torch
+import tkinter as tk
+from tkinter import messagebox
+from googleapiclient.discovery import build
+
+How to install libraries:
+pip install pickle
+pip install transformers
+pip install torch
+pip install tkinter
+pip install google-api-python-client
